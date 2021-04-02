@@ -38,9 +38,7 @@ sites = {
 for info in sites["site_info"]:	#Will pull the list of site_info and place the values on info variable.
 	print (info["site_contact"]) #Will print only the site contact email address.
 
-
 print ("\n")
-
 print (sites["site_info"])
 
 

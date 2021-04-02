@@ -1,7 +1,7 @@
 import requests
 
 
-open_api_key = "c0ddfd7d322622bad27a6236bcb3e793"
+open_api_key = "<Enter the provided key here from Open Weather>"
 city = input("Enter the city you like to check the forecast: ")   #Ask the user what city he like to check the forecast
 url = "http://api.openweathermap.org/data/2.5/weather?q="+city+"&appid="+open_api_key+"&units=imperial" #will call the result from OpenWeather API with a Farenheight temperature 
 

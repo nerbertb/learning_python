@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Network Automation, Graphic Design, and Photography.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on working on a Network Automation projects
-- 📫 You can reach me at nerbertb@gmail.com
+- 📫 You can reach me at nerbertb@gmail.com / nerbert.bulaquena@gmail.com
 
 <!---
 nerbertb/nerbertb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
